@@ -8,7 +8,7 @@
 </p>
 
 <div>
-    <img src="public/assets/static_images/home-1.jpg" alt='images'/>
+    <img src="public/assets/static_images/home-1.png" alt='images'/>
 </div>
 
 
