@@ -9,8 +9,6 @@
 
 <div>
     <img src="public/assets/static_images/home-1.png" alt='images'/>
-    <img src="public/assets/static_images/home-2.png" alt='images'/>
-    <img src="public/assets/static_images/home-3.png" alt='images'/>
 </div>
 
 
